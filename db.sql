@@ -1,0 +1,6 @@
+CREATE DATABASE natsdlqexample;
+
+CREATE TABLE entries (
+    id SERIAL PRIMARY KEY,
+    timestamp TIMESTAMP NOT NULL DEFAULT 
+)
